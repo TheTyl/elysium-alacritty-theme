@@ -1,5 +1,5 @@
 [colors.primary]
-foreground = "#94a6a6"
+foreground = "#96a8a8"
 background = "#171d1d"
 
 [colors.cursor]
@@ -12,20 +12,20 @@ background = "#2b3b51"
 
 [colors.normal]
 black = "#5d5d5d"
-red = "#9f7f7b"
-green = "#8ea492"
-yellow = "#a4a48b"
-blue = "#7691a2"
-magenta = "#8792a4"
-cyan = "#94a6a6"
+red = "#a88985"
+green = "#92a896"
+yellow = "#a8a891"
+blue = "#81a0a6"
+magenta = "#8b96a8"
+cyan = "#96a8a8"
 white = "#7b7b7b"
 
 [colors.bright]
 black = "#5d5d5d"
-red = "#9f7f7b"
-green = "#8ea492"
-yellow = "#a4a48b"
-blue = "#7691a2"
-magenta = "#8792a4"
-cyan = "#94a6a6"
+red = "#a88985"
+green = "#92a896"
+yellow = "#a8a891"
+blue = "#81a0a6"
+magenta = "#8b96a8"
+cyan = "#96a8a8"
 white = "#7b7b7b"
