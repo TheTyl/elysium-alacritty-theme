@@ -1,6 +1,6 @@
 [colors.primary]
 foreground = "#96a8a8"
-background = "#171d1d"
+background = "#161c1c"
 
 [colors.cursor]
 text = "#0000ff"
